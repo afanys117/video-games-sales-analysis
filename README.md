@@ -48,7 +48,7 @@ Our project aimed to achieve a comprehensive understanding of the video game ind
 
 ## Data Sources
 
-The dataset used in this project is available on Kaggle and was collected from vgchartz.com using a custom web scraping script. [Link to Dataset](https://www.kaggle.com/datasets/gregorut/videogames)
+The dataset used in this project is available on Kaggle and was collected from vgchartz.com using a custom web scraping script. [Link to Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 ## Tools and Technologies
 
